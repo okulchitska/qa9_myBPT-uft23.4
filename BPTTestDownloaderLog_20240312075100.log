@@ -1,0 +1,25 @@
+3/12/2024 7:51:00 AM: Analyzing tests in the BPT test folder Subject...
+3/12/2024 7:51:03 AM: Found following BPT tests from the folder Subject: 1,2,3.
+3/12/2024 7:51:16 AM: Finished analyzing BPT test 1.
+3/12/2024 7:51:20 AM: Finished analyzing BPT test 2.
+3/12/2024 7:51:24 AM: Finished analyzing BPT test 3.
+3/12/2024 7:51:24 AM: BPTTestDownloader will download and convert following Business Components:
+3/12/2024 7:51:24 AM:     1: [ALM] Components\myFlightApp\Login.
+3/12/2024 7:51:24 AM:     2: [ALM] Components\myFlightApp\CloseApp.
+3/12/2024 7:51:24 AM:     9: [ALM] Components\myFlightApp\Find Order by ID and take PassengerName.
+3/12/2024 7:51:24 AM:     11: [ALM] Components\myFlightApp\Find Orders by PassengerName.
+3/12/2024 7:51:24 AM:     10: [ALM] Components\myFlightApp\New Search on Order Details.
+3/12/2024 7:51:24 AM:     3: [ALM] Components\myFlightApp\Find Flight.
+3/12/2024 7:51:24 AM:     4: [ALM] Components\myFlightApp\Create Order.
+3/12/2024 7:51:24 AM:     5: [ALM] Components\myFlightApp\Select Flight.
+3/12/2024 7:51:24 AM: Downloading and converting of Business Components in resume mode. Components that were successfully converted will be skipped.
+3/12/2024 7:52:33 AM: Successfully created GUI test for BC: 1: [ALM] Components\myFlightApp\Login.
+3/12/2024 7:53:34 AM: Successfully created GUI test for BC: 2: [ALM] Components\myFlightApp\CloseApp.
+3/12/2024 7:54:38 AM: Successfully created GUI test for BC: 9: [ALM] Components\myFlightApp\Find Order by ID and take PassengerName.
+3/12/2024 7:55:25 AM: Successfully created GUI test for BC: 11: [ALM] Components\myFlightApp\Find Orders by PassengerName.
+3/12/2024 7:56:14 AM: Successfully created GUI test for BC: 10: [ALM] Components\myFlightApp\New Search on Order Details.
+3/12/2024 7:57:06 AM: Successfully created GUI test for BC: 3: [ALM] Components\myFlightApp\Find Flight.
+3/12/2024 7:57:45 AM: Successfully created GUI test for BC: 4: [ALM] Components\myFlightApp\Create Order.
+3/12/2024 7:58:23 AM: Successfully created GUI test for BC: 5: [ALM] Components\myFlightApp\Select Flight.
+3/12/2024 7:58:23 AM: BPTTestDownloader has finished downloading and converting Business Components.
+3/12/2024 7:58:23 AM: All Business Component(s) were successfully downloaded and converted to GUI test(s).
